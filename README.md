@@ -58,7 +58,7 @@
 #
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manoIvans/manoIvans/output/tetris-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manoIvans/manoIvans/output/tetris-contribution-graph.svg">
-  <img align="center" alt="github contribution grid tetris animation" src="https://raw.githubusercontent.com/manoIvans/manoIvans/output/tetris-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manoIvans/manoIvans/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manoIvans/manoIvans/output/github-snake.svg">
+  <img align="center" alt="github contribution grid tetris animation" src="https://raw.githubusercontent.com/manoIvans/manoIvans/output/github-snake-dark.svg">
 </picture>
