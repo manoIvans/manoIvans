@@ -21,9 +21,8 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: manoIvans
-          # Aqui é a mágica: definimos a cor da cobra como #E87D0D
           outputs: |
-            dist/github-snake.svg?color_snake=#E87D0D
+            dist/github-snake.svg?color_snake=#D85A30
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#E87D0D
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
